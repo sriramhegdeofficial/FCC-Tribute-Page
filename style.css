@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato;
+}
+#main {
+    border: 1px solid transparent;
+    
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color : rgba(220,220,220, 0.3);
+    padding-bottom: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#title {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: bolder;
+    opacity: 0.8;
+
+}
+
+#subtitle {
+    margin: 20px 0;
+    text-align: center;
+}
+
+#img-div {
+    background: white;
+    padding: 20px 0px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    
+    
+    
+}
+
+#img-caption {
+    display: block;
+
+    text-align: center;
+    margin: 20px auto;
+    max-width: 88%;
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+
+#tribute-info {
+    display: block;
+    margin: 75px auto;
+   
+    
+}
+
+#tribute-info h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+}
+
+#tribute-info ul {
+   max-width: 65%;
+   
+   height: auto;
+   margin: auto;
+}
+
+#tribute-info ul li {
+    margin: 25px 0px;
+    line-height: 23px;
+}
+
+#tribute-info ul li span {
+    font-weight: bold;
+}
+
+#tribute-info q {
+    display: block;
+    max-width: 65%;
+    margin: 55px auto;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-size: 1.1rem;
+    line-height: 35px;
+    
+}
+
+
+
+#tribute-info .manmohan {
+    display: block;
+    max-width: 65%;
+    margin: 0 auto;
+    
+}
+
+
+.tribute-link-paragraph {
+    display: block;
+    max-width: 85%;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+#tribute-link {
+    color: #477ca7;
+}
+
+
+#tribute-link:visited {
+    color: #74638f;
+}
+
+
+
+
